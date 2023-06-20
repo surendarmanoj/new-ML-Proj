@@ -1,2 +1,5 @@
 # new-ML-Proj
-Test repository
+# you need the following items ready before starting
+
+1. Github Account
+2. VS code IDE
